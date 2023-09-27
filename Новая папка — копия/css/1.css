@@ -1,0 +1,18 @@
+.menu-top{
+    background-color: rgb(255, 253, 253);
+    padding: 5px;   
+}
+
+.darck{
+    color: rgb(94, 90, 90);
+    text-align: left;
+    width: 50%;
+    left: 10px   
+}
+.bord{
+    background: #fde9a5;  
+    border: 4px solid #fff; 
+    border-radius: 10px; 
+    text-align: center;
+    
+}
